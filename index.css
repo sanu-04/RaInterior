@@ -325,3 +325,10 @@
 .hvr-nav:hover {
     color: red !important;
 }
+.sntr-box {
+    padding-bottom: 230px;
+    font-family: playfair display;
+}
+.heading-styl{
+    font-family: playfair display;
+}
